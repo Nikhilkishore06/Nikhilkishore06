@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Nikhilkishore06/Nikhilkishore06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
 [![An image of @nikhilkishore06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikhilkishore06)](https://holopin.io/@nikhilkishore06)
